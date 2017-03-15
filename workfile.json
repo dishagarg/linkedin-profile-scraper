@@ -1,0 +1,539 @@
+{
+    "AWARDS": [
+        {
+            "COMPANY": "Sopra Group India",
+            "DATE": "February 2014",
+            "DESCRIPTION": "Because of the capability to solve and deliver the high complexity requirements with best quality and for the overall best performance in the project at Sopra Group.",
+            "NAME": "BON-TRAVAIL Award"
+        },
+        {
+            "COMPANY": "Sopra Group India",
+            "DATE": "February 2015",
+            "DESCRIPTION": "Because of the smart-work and pro-efficiency in delivering all the tasks.\nFor going an extra mile always to provide support to all the team members apart from doing the assigned tasks.",
+            "NAME": "STAR rating"
+        },
+        {
+            "COMPANY": "Aptech",
+            "DATE": "July 2012",
+            "DESCRIPTION": "Won 2nd prize in \u201cI-TECH-KNOW\u201d a java quiz by Aptech worth Rs.1000/- at IGIT Tech-Fest 2013.",
+            "NAME": "Won 2nd prize in \"I-TECH-KNOW\u201d a java quiz"
+        }
+    ],
+    "BRIEF_CURRENT": [
+        {
+            "NAME": "University of Victoria",
+            "URL": "https://www.linkedin.com/company/university-of-victoria?trk=ppro_cprof"
+        }
+    ],
+    "BRIEF_EDUCATION": [
+        {
+            "NAME": "University of Victoria",
+            "URL": "https://www.linkedin.com/edu/university-of-victoria-10808?trk=ppro_sprof"
+        },
+        {
+            "NAME": "",
+            "URL": "https://www.linkedin.com/edu/university-of-victoria-10808?trk=ppro_sprof"
+        },
+        {
+            "NAME": "",
+            "URL": "https://www.linkedin.com/edu/guru-gobind-singh-indraprastha-university-13486?trk=ppro_sprof"
+        },
+        {
+            "NAME": "",
+            "URL": "https://www.linkedin.com/edu/kendriya-vidyalaya-20331?trk=ppro_sprof"
+        }
+    ],
+    "BRIEF_PREVIOUS": [
+        {
+            "NAME": "University of Victoria",
+            "URL": "https://www.linkedin.com/company/university-of-victoria?trk=ppro_cprof"
+        },
+        {
+            "NAME": "Redbrick (rdbrck)",
+            "URL": "https://www.linkedin.com/company/redbrick-rdbrck?trk=ppro_cprof"
+        },
+        {
+            "NAME": "Sopra Group India",
+            "URL": "https://www.linkedin.com/company/sopra-india?trk=ppro_cprof"
+        }
+    ],
+    "CERTIFICATIONS": [
+        {
+            "DATE": "July 2014 \u2013 Present",
+            "DEGREE": "ISTQB - International Software Testing Qualifications Board, License ITB-CTFL-0065544",
+            "IMG": "https://media.licdn.com/media/p/8/005/051/358/0f8586a.png",
+            "NAME": "ISTQB | Certified Tester Foundation Level",
+            "URL": null
+        }
+    ],
+    "CONNECTIONS": "172\nconnections",
+    "COURSES": [
+        {
+            "NAME": "Operations Research: Simulation (CSC 546)"
+        },
+        {
+            "NAME": "Research Skills (CSC 595)"
+        },
+        {
+            "NAME": "Music Information Retrieval (CSC 575)"
+        },
+        {
+            "NAME": "Analysis of Algorithms (CSC 525)"
+        },
+        {
+            "NAME": "ARTIFICIAL INTELLIGENCE (CSC 421)"
+        },
+        {
+            "NAME": "OPERATIONS RESEARCH: I (CSC 545)"
+        }
+    ],
+    "EDUCATION": [
+        {
+            "DATE": "2015 \u2013 2017",
+            "DEGREE": "Master of Science (M.S.), Computer Science, A+",
+            "DESCRIPTION": "Graduate Student as well as a Research Assistant.\nActivities and Societies: Indian Student Association",
+            "IMG": null,
+            "NAME": "University of Victoria",
+            "URL": "https://www.linkedin.com/edu/university-of-victoria-10808?trk=ppro_sprof"
+        },
+        {
+            "DATE": "2009 \u2013 2013",
+            "DEGREE": "Bachelor of Technology (B.Tech.), Information Technology, 80.8%",
+            "DESCRIPTION": "Participated in Medley in \u201cEmblazzon (Annual Fest)\u201d in HMR Institute of Technology & Management, 2010.\nActivities and Societies: Chamber Chorale",
+            "IMG": null,
+            "NAME": "Guru Gobind Singh Indraprastha University",
+            "URL": "https://www.linkedin.com/edu/guru-gobind-singh-indraprastha-university-13486?trk=ppro_sprof"
+        },
+        {
+            "DATE": "2004 \u2013 2009",
+            "DEGREE": "AISSCE (Class XII) and AISSE (Class X), Non-Medical",
+            "DESCRIPTION": "Activities and Societies: Chamber Chorale",
+            "IMG": null,
+            "NAME": "Kendriya Vidyalaya",
+            "URL": "https://www.linkedin.com/edu/kendriya-vidyalaya-20331?trk=ppro_sprof"
+        }
+    ],
+    "EXPERIENCE": [
+        {
+            "COMPANY": "University of Victoria",
+            "COMPANY_URL": "https://www.linkedin.com/company/university-of-victoria?trk=ppro_cprof",
+            "DATE": "January 2017 \u2013 Present (3 months)",
+            "DESCRIPTION": "For CSC 110, \"Fundamentals of Programming I\" (JAVA).\n- Instructing four lab sections.\n- Providing assistance to the students.",
+            "IMG": null,
+            "TITLE": "Teaching Assistant",
+            "TITLE_URL": "https://www.linkedin.com/title/teaching-assistant?trk=pprofile_title"
+        },
+        {
+            "COMPANY": "University of Victoria",
+            "COMPANY_URL": "https://www.linkedin.com/company/university-of-victoria?trk=ppro_cprof",
+            "DATE": "September 2016 \u2013 December 2016 (4 months)",
+            "DESCRIPTION": "For CSC 355 - \"Digital Logic and Computer Organization\":\n- Instructed three lab sections.\n- Marked the assignments and the exams.\n- Provided assistance to the students.",
+            "IMG": null,
+            "TITLE": "Teaching Assistant",
+            "TITLE_URL": "https://www.linkedin.com/title/teaching-assistant?trk=pprofile_title"
+        },
+        {
+            "COMPANY": "Redbrick (rdbrck)",
+            "COMPANY_URL": "https://www.linkedin.com/company/redbrick-rdbrck?trk=ppro_cprof",
+            "DATE": "May 2016 \u2013 August 2016 (4 months)",
+            "DESCRIPTION": "(Automation) Working with Protocol Buffers: Developed an application into a python package (pbtool), which when installed, reads any Protocol Buffer text (.proto) and generates a form accordingly. Submitting that form, generates the serialized data and JSON text for that specific file.\nSelenium Test: Created automated selenium tests in python for Redbrick's product, \"Deskmetrics\".\nManual Testing of Deskmetrics.\nCreated Django Unit Tests.",
+            "IMG": null,
+            "TITLE": "Quality Assurance Specialist Co-op",
+            "TITLE_URL": null
+        },
+        {
+            "COMPANY": "University of Victoria",
+            "COMPANY_URL": "https://www.linkedin.com/company/university-of-victoria?trk=ppro_cprof",
+            "DATE": "January 2016 \u2013 April 2016 (4 months)",
+            "DESCRIPTION": "Worked as a Research Assistant under Dr. Joe Parsons of Learning and Teaching Centre at UVic to develop a web-based, interactive tutorial about learning outcomes.",
+            "IMG": null,
+            "TITLE": "Research Assistant",
+            "TITLE_URL": "https://www.linkedin.com/title/research-assistant?trk=pprofile_title"
+        },
+        {
+            "COMPANY": "Sopra Group India",
+            "COMPANY_URL": "https://www.linkedin.com/company/sopra-india?trk=ppro_cprof",
+            "DATE": "September 2013 \u2013 August 2015 (2 years)",
+            "DESCRIPTION": "- Created automation tools using VBScript.\n- Worked on testing the embedded software for the well-known aircrafts (Bombardier C-Series, Airbus A320Neo, Embraer KC390).\n- Formally reviewed the work of other team members.\n- Provided trainings and mentored the whole team.\n- Followed safety critical standard (A-Level) for developing avionics software systems (ATA-21).\n- Also, worked as a JIRA focal in the team.",
+            "IMG": null,
+            "TITLE": "Software Engineer",
+            "TITLE_URL": "https://www.linkedin.com/title/software-engineer?trk=pprofile_title"
+        },
+        {
+            "COMPANY": "Sopra Group India",
+            "COMPANY_URL": "https://www.linkedin.com/company/sopra-india?trk=ppro_cprof",
+            "DATE": "July 2013 \u2013 September 2013 (3 months)",
+            "DESCRIPTION": "Software Testing Training Certification",
+            "IMG": null,
+            "TITLE": "Trainee Engineer",
+            "TITLE_URL": "https://www.linkedin.com/title/trainee-engineer?trk=pprofile_title"
+        },
+        {
+            "COMPANY": "HCL Technologies",
+            "COMPANY_URL": "https://www.linkedin.com/company/hcl-technologies?trk=ppro_cprof",
+            "DATE": "June 2012 \u2013 July 2012 (2 months)",
+            "DESCRIPTION": "Worked as an Intern to develop a JAVA intranet mailbox.",
+            "IMG": null,
+            "TITLE": "Software Trainee",
+            "TITLE_URL": "https://www.linkedin.com/title/software-trainee?trk=pprofile_title"
+        },
+        {
+            "COMPANY": "NIIT Limited",
+            "COMPANY_URL": "https://www.linkedin.com/company/niit-limited?trk=ppro_cprof",
+            "DATE": "January 2012 \u2013 May 2012 (5 months)",
+            "DESCRIPTION": "Pursued Course in \u201cCore Java and Web Component Development\u201d in JAVA Technologies from National Institute of Information Technologies (NIIT) as a part of ORACLE\u2019s Workforce Development program in the year 2012.",
+            "IMG": null,
+            "TITLE": "Trainee",
+            "TITLE_URL": "https://www.linkedin.com/title/trainee?trk=pprofile_title"
+        },
+        {
+            "COMPANY": "AlmaMate Info Tech",
+            "COMPANY_URL": "https://www.linkedin.com/company/almamate-info-tech?trk=ppro_cprof",
+            "DATE": "June 2011 \u2013 July 2011 (2 months)",
+            "DESCRIPTION": "Worked on Cloud Computing platform \"Salesforce\"",
+            "IMG": "https://media.licdn.com/media/p/1/000/06b/0a2/1779f38.png",
+            "TITLE": "Summer Intern",
+            "TITLE_URL": "https://www.linkedin.com/title/summer-intern?trk=pprofile_title"
+        },
+        {
+            "COMPANY": "University of Victoria",
+            "COMPANY_URL": "https://www.linkedin.com/company/university-of-victoria?trk=ppro_cprof",
+            "DATE": "September 2016",
+            "DESCRIPTION": "Volunteered as a Grad Orientation Leader in the Graduate Orientation Fall'2016 at UVIC",
+            "IMG": null,
+            "TITLE": "Graduate Orientation Leader",
+            "TITLE_URL": null
+        },
+        {
+            "COMPANY": null,
+            "COMPANY_URL": null,
+            "DATE": "September 2015",
+            "DESCRIPTION": null,
+            "IMG": null,
+            "TITLE": "Director at Large",
+            "TITLE_URL": null
+        }
+    ],
+    "GROUPS": [
+        {
+            "IMG": null,
+            "NAME": "University of Victoria Co-op and Career",
+            "URL": "https://www.linkedin.com/groups?gid=3164690&trk=prof-groups-membership-name"
+        },
+        {
+            "IMG": null,
+            "NAME": "Google Android",
+            "URL": "https://www.linkedin.com/groups?gid=76373&trk=prof-groups-membership-name"
+        },
+        {
+            "IMG": null,
+            "NAME": "UVic Engineering & Computer Science Women's Network",
+            "URL": "https://www.linkedin.com/groups?gid=4299093&trk=prof-groups-membership-name"
+        },
+        {
+            "IMG": null,
+            "NAME": "Human Factors in Aviation",
+            "URL": "https://www.linkedin.com/groups?gid=1080877&trk=prof-groups-membership-name"
+        },
+        {
+            "IMG": null,
+            "NAME": "Space News",
+            "URL": "https://www.linkedin.com/groups?gid=2377793&trk=prof-groups-membership-name"
+        }
+    ],
+    "IMAGE": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/5/005/0b6/26f/378a7bb.jpg",
+    "INDUSTRY": "Victoria, British Columbia, Canada",
+    "INTERESTS": [],
+    "LANGUAGES": [
+        {
+            "LEVEL": "Full professional proficiency",
+            "NAME": "English"
+        },
+        {
+            "LEVEL": "Native or bilingual proficiency",
+            "NAME": "Hindi"
+        },
+        {
+            "LEVEL": "Elementary proficiency",
+            "NAME": "French"
+        },
+        {
+            "LEVEL": "Professional working proficiency",
+            "NAME": "Punjabi"
+        }
+    ],
+    "LOCATION": "Victoria, British Columbia, Canada",
+    "NAME": "Disha Garg",
+    "ORGANIZATIONS": [],
+    "PATENTS": [],
+    "POSTS": [],
+    "PROJECTS": [
+        {
+            "CONTRIBUTORS": "Team members:\nDisha Garg",
+            "DATE": "Starting May 2016",
+            "DESCRIPTION": "- Developed an automation tool to read the Protocol Buffers and generate a form with the data fields as they are read by the \"protoc\" compiler. Submitting that form, generates the serialized data for that specific form and a JSON text (in case it is required).",
+            "NAME": "Protobuf Tool",
+            "URL": null
+        },
+        {
+            "CONTRIBUTORS": "Team members:\nDisha Garg",
+            "DATE": "January 2016 \u2013 April 2016",
+            "DESCRIPTION": "Created an application which takes the input as a \u201chummed melody\u201d from the user and compares it to each song stored in the existing database. The application returns a list of songs closest to the input query.\nImplemented SWIPE' Algorithm in Python using numpy, scipy packages to extract the pitches of a query.",
+            "NAME": "Query By Singing/Humming",
+            "URL": null
+        },
+        {
+            "CONTRIBUTORS": "Team members:\nDisha Garg",
+            "DATE": "Starting December 2015",
+            "DESCRIPTION": "",
+            "NAME": "Airline Check-In Counter Simulation",
+            "URL": null
+        },
+        {
+            "CONTRIBUTORS": "Team members:\nAchint Jain PMP, Disha Garg, Kavitesh Kamboj",
+            "DATE": "September 2013 \u2013 August 2015",
+            "DESCRIPTION": "Client: Liebherr Aerospace Toulouse SAS\n\n- Tested and delivered embedded softwares of Integrated Air System Controller of Bombardier C-Series, Airbus A320Neo, Embraer KC390 as projects.\n- Analyzed, Built and Reviewed the Tests of other team members.\n- Organized and Provided trainings to the team.",
+            "NAME": "Scientific Technical Industrial and Embedded",
+            "URL": null
+        },
+        {
+            "CONTRIBUTORS": "Team members:\nDisha Garg",
+            "DATE": "Starting May 2012",
+            "DESCRIPTION": "- Developed a secure application that can send e-mails and retrieve them to and from any e-mail account.\n- Applied extensions of the TCP server working model to SMTP.\n- Account registration, Compose, send, delete the mails, send with an attachment, view or mark the mails as spam, Block any ID, reply or forward the mails etc all over the web, Change Theme or background and Change or Forgot password were some of the features and functions which were included in this application.",
+            "NAME": "Java Mailbox with Apache Tomcat As Web Server",
+            "URL": null
+        },
+        {
+            "CONTRIBUTORS": "Team members:\nDisha Garg",
+            "DATE": "Starting July 2011",
+            "DESCRIPTION": "- Created a Gas booking (CRM) application with the help of a Salesforce.com trial version.\n- Was able to easily manage all the customer interactions of an organisation through different media, like phone calls, site email enquiries, communities, as well as social media.\n- Created triggers using Apex code to manage the records in the database.",
+            "NAME": "Gas booking application using Salesforce.com",
+            "URL": null
+        },
+        {
+            "CONTRIBUTORS": "Team members:\nDisha Garg",
+            "DATE": "Starting April 2013",
+            "DESCRIPTION": "- The objective of the project was to study interpreter design.\n- Developed interpreter system software which transformed the input program written in some high level language into corresponding output code in some low level language.",
+            "NAME": "BASIC Interpreter in C Language",
+            "URL": null
+        }
+    ],
+    "PUBLICATIONS": [],
+    "RECOMENDATIONS": [],
+    "RECOMMENDATIONS_NUMBER": null,
+    "RELATED": [
+        {
+            "IMG": "https://media.licdn.com/mpr/mpr/shrinknp_200_200/p/5/005/0b6/26f/378a7bb.jpg",
+            "NAME": null,
+            "URL": null,
+            "VALUE": "Graduate Teaching Assistant at University of Victoria"
+        },
+        {
+            "IMG": "https://media.licdn.com/mpr/mpr/shrink_100_100/AAEAAQAAAAAAAAlMAAAAJDNjNWViOTcyLTNhZWQtNGZjYy1hZjE2LWQxOTAwNzJhYzU2NA.jpg",
+            "NAME": null,
+            "URL": null,
+            "VALUE": "Private Equity Intern at Trive Capital"
+        },
+        {
+            "IMG": "https://static.licdn.com/scds/common/u/images/themes/katy/ghosts/person/ghost_person_100x100_v1.png",
+            "NAME": null,
+            "URL": null,
+            "VALUE": "Student at University at Buffalo"
+        },
+        {
+            "IMG": null,
+            "NAME": "Venkatesh Sambangi",
+            "URL": "https://in.linkedin.com/in/venkatesh-sambangi-2003a612?trk=pub-pbmap",
+            "VALUE": "credit manager at HDFC Bank"
+        },
+        {
+            "IMG": null,
+            "NAME": "Trusha Savaliya",
+            "URL": "https://ca.linkedin.com/in/trusha-savaliya-913459133?trk=pub-pbmap",
+            "VALUE": "--"
+        },
+        {
+            "IMG": null,
+            "NAME": "Camilla Mann",
+            "URL": "https://ca.linkedin.com/in/camilla-mann-46b24295?trk=pub-pbmap",
+            "VALUE": "Computer Engineering Student"
+        },
+        {
+            "IMG": null,
+            "NAME": "Gurjeet Singh",
+            "URL": "https://ca.linkedin.com/in/gurjeet-singh-294b5949?trk=pub-pbmap",
+            "VALUE": "Database Administrator at SAP"
+        },
+        {
+            "IMG": null,
+            "NAME": "Dhanush Dharmaretnam",
+            "URL": "https://ca.linkedin.com/in/dhanush987?trk=pub-pbmap",
+            "VALUE": "Masters in Computer Science at University of Victoria"
+        },
+        {
+            "IMG": null,
+            "NAME": "David Gibb",
+            "URL": "https://ca.linkedin.com/in/david-gibb-06b073127?trk=pub-pbmap",
+            "VALUE": "Student at University of Victoria"
+        },
+        {
+            "IMG": null,
+            "NAME": "Stephan Heinemann",
+            "URL": "https://ca.linkedin.com/in/stephanheinemann?trk=pub-pbmap",
+            "VALUE": "Commercial Pilot, Flight Instructor, Software Engineer, PhD Candidate at University of Victoria"
+        },
+        {
+            "IMG": null,
+            "NAME": "Prabhjot Kaur",
+            "URL": "https://ca.linkedin.com/in/prabhjot-kaur-06995439?trk=pub-pbmap",
+            "VALUE": "Teaching Assistant at University of Victoria"
+        },
+        {
+            "IMG": null,
+            "NAME": "sarah gehue",
+            "URL": "https://ca.linkedin.com/in/sarah-gehue-2a0627ba?trk=pub-pbmap",
+            "VALUE": "Arts and Crafts Professional"
+        },
+        {
+            "IMG": null,
+            "NAME": "chandrashekhar reddy",
+            "URL": "https://in.linkedin.com/in/chandrashekhar-reddy-21a4b738?trk=pub-pbmap",
+            "VALUE": "head support at mamidi mobile application devices pvt ltd bangal=ure"
+        }
+    ],
+    "SCORES": [],
+    "SKILLS": [
+        {
+            "NAME": "Java",
+            "URL": "https://www.linkedin.com/topic/java?trk=pprofile_topic"
+        },
+        {
+            "NAME": "Python",
+            "URL": "https://www.linkedin.com/topic/python?trk=pprofile_topic"
+        },
+        {
+            "NAME": "JavaScript",
+            "URL": "https://www.linkedin.com/topic/javascript?trk=pprofile_topic"
+        },
+        {
+            "NAME": "Core Java",
+            "URL": "https://www.linkedin.com/topic/core-java?trk=pprofile_topic"
+        },
+        {
+            "NAME": "Web Application Development",
+            "URL": "https://www.linkedin.com/topic/web-application-development?trk=pprofile_topic"
+        },
+        {
+            "NAME": "SQL",
+            "URL": "https://www.linkedin.com/topic/sql?trk=pprofile_topic"
+        },
+        {
+            "NAME": "C",
+            "URL": "https://www.linkedin.com/topic/c?trk=pprofile_topic"
+        },
+        {
+            "NAME": "C++",
+            "URL": "https://www.linkedin.com/topic/c++?trk=pprofile_topic"
+        },
+        {
+            "NAME": "Programming Languages",
+            "URL": "https://www.linkedin.com/topic/programming-languages?trk=pprofile_topic"
+        },
+        {
+            "NAME": "Testing",
+            "URL": "https://www.linkedin.com/topic/testing?trk=pprofile_topic"
+        },
+        {
+            "NAME": "Selenium",
+            "URL": "https://www.linkedin.com/topic/selenium?trk=pprofile_topic"
+        },
+        {
+            "NAME": "JSP",
+            "URL": "https://www.linkedin.com/topic/jsp?trk=pprofile_topic"
+        },
+        {
+            "NAME": "Quality Center",
+            "URL": "https://www.linkedin.com/topic/quality-center?trk=pprofile_topic"
+        },
+        {
+            "NAME": "Eclipse",
+            "URL": "https://www.linkedin.com/topic/eclipse?trk=pprofile_topic"
+        },
+        {
+            "NAME": "JIRA",
+            "URL": "https://www.linkedin.com/topic/jira?trk=pprofile_topic"
+        },
+        {
+            "NAME": null,
+            "URL": null
+        },
+        {
+            "NAME": "Operating Systems",
+            "URL": "https://www.linkedin.com/topic/operating-systems?trk=pprofile_topic"
+        },
+        {
+            "NAME": "XML",
+            "URL": "https://www.linkedin.com/topic/xml?trk=pprofile_topic"
+        },
+        {
+            "NAME": "HTML",
+            "URL": "https://www.linkedin.com/topic/html?trk=pprofile_topic"
+        },
+        {
+            "NAME": "Programming",
+            "URL": "https://www.linkedin.com/topic/programming?trk=pprofile_topic"
+        },
+        {
+            "NAME": "Software Development",
+            "URL": "https://www.linkedin.com/topic/software-development?trk=pprofile_topic"
+        },
+        {
+            "NAME": "Git",
+            "URL": "https://www.linkedin.com/topic/git?trk=pprofile_topic"
+        },
+        {
+            "NAME": null,
+            "URL": null
+        }
+    ],
+    "SUMMARY": "As a graduate student, I am enrolled in Computer Science (Project Option) under Dr. George Tzanetakis at University of Victoria. I am actively seeking for yet another Co-op internship opportunity for Summer'17, for a Software Development profile.\n\nAlso, working as a Graduate Teaching Assistant, currently for the course CSC 110, \"Fundamentals of Programming I\" (JAVA).\n\nProficient in programming languages: Java, Python, HTML5, CSS, JavaScript, SQL, JSP, VBScript;\nFrameworks: Bootstrap, AngularJS, Flask, Jinja2, MVC\nOS Platforms: Windows, Linux, Mac OS X;\nKnowledge of RDBMS, SQL concepts, and various networking concepts and protocols (including HTTP, FTP, SMTP).\n\n2 years of Industrial experience as a Software Engineer at Sopra Steria Pvt. Ltd., India in Scientific Technical Industrial and Embedded (STIE) module. It included analysis and testing of the various embedded software for Airbus, Bombardier and Embraer.\n\nPersonal Profile includes:\n- ISTQB Certified.\n- Extensive working experience in an Agile environment.\n- Strong inter-personal and communication skills.\n\nTools and Technologies: Git, SVN (Subversion), JIRA/Confluence, Selenium, Vagrant, Docker, Concourse CI, Jenkins, Apache Tomcat, RESTful services, JSON, Google's Protocol Buffers.",
+    "TITLE": "Graduate Teaching Assistant at University of Victoria",
+    "VOLUNTEER_CAUSES": [],
+    "VOLUNTEER_OPPORTUNITIES": [],
+    "VOLUNTEER_POSITION": [
+        {
+            "CAUSE": "Education",
+            "COMPANY": "University of Victoria",
+            "DATE": "September 2016",
+            "DESCRIPTION": "Volunteered as a Grad Orientation Leader in the Graduate Orientation Fall'2016 at UVIC",
+            "TITLE": "Graduate Orientation Leader"
+        },
+        {
+            "CAUSE": "Arts and Culture",
+            "COMPANY": "Indian Student Association | UVIC",
+            "DATE": "September 2015",
+            "DESCRIPTION": null,
+            "TITLE": "Director at Large"
+        }
+    ],
+    "VOLUNTEER_SUPPORT": [
+        {
+            "NAME": "Arts and Culture"
+        },
+        {
+            "NAME": "Education"
+        },
+        {
+            "NAME": "Environment"
+        },
+        {
+            "NAME": "Health"
+        },
+        {
+            "NAME": "Science and Technology"
+        }
+    ],
+    "WEBSITES": [],
+    "connId": "",
+    "friendlyUrl": "https://www.linkedin.com/in/disha-garg-85891768/"
+}
