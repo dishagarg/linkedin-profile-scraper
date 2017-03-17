@@ -11,6 +11,7 @@ from LinkedinController import LinkedinController
 DB_NAME = 'test'
 DB_COL = 'lnprofilestech'
 
+
 def main(params):
     config_file = None
     list_file = None
@@ -35,7 +36,7 @@ def main(params):
     if list_file:
         urls = simplejson.loads(open(list_file).read())
     else:
-        urls = ['https://www.linkedin.com/in/toxtli']
+        urls = ['https://www.linkedin.com/in/disha-garg-85891768/']
 
     client = MongoClient()
     db = client[DB_NAME]

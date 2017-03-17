@@ -1,8 +1,8 @@
 # Extracting public profile:
-# python profile.py -u http://www.linkedin.com/in/toxtli
+# python profile.py -u https://www.linkedin.com/in/disha-garg-85891768/
 #
 # Extracting user from a logged in account:
-# python profile.py -u http://www.linkedin.com/in/toxtli -c linkedin-config
+# python profile.py -u https://www.linkedin.com/in/disha-garg-85891768/ -c linkedin-config
 
 import sys
 import json

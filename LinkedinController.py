@@ -6,7 +6,6 @@ from selenium import webdriver
 class LinkedinController(SeleniumHelper):
 
     # CONFIG
-
     TIMEOUT = 7
     data = {}
     mode = 'PUBLIC'
@@ -22,7 +21,6 @@ class LinkedinController(SeleniumHelper):
     LOGIN_PASS_VALUE = ''
 
     # PUBLIC
-
     CONTAINER['PUBLIC'] = '#profile'
     SECTIONS['PUBLIC'] = {}
     FIELDS['PUBLIC'] = {}
